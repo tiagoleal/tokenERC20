@@ -1,17 +1,12 @@
 # Token
-<p>Create token ERC-20 - Ethereum Network</b>
-
+<p>Created new CryptoCurrency using a token ERC-20 in the network Ethereum
+and connect in metamask wallet.</b>
 
 ## Stack the Project
 
 - **Solidity**
 - **Remix IDE**
 - **Metamask**
-
-
-## About
-Created new CryptoCurrency using a token ERC-20 in the network Ethereum
-and connect im metamask wallet.
 
 ## Authors
 
