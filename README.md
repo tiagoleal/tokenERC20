@@ -1,5 +1,5 @@
 # Token
-<p><b>Create token ERC-20 - Ethereum Network</b></p>
+<p>Create token ERC-20 - Ethereum Network</b>
 
 
 ## Stack the Project
